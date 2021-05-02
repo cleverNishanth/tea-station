@@ -1,3 +1,3 @@
-url: (https://clevernishanth-basic-htmlcss-teastation.netlify.app)
+url: (https://clevernishanth-html-css-teastation.netlify.app/)
 
 Thanks...
